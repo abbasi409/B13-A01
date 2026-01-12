@@ -45,7 +45,7 @@ header{
     color: white;
    font-weight: Semi-Bold;
    cursor: pointer;
-   flex-direction: row;
+  
    
    
  }
@@ -211,5 +211,39 @@ padding-top: 24px;
   font-style: medium;
   margin-bottom: 16px;
   list-style-type: none;
+
+ }
+ #about{
+  padding: 0 120px 120px 120px;
+
+
+ }
+ #about .about-container{
+  max-width: 1360px;
+  background-color: #F7F6F2;
+  border-radius: 12px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 80px 40px;
+ }
+ .about-heading h2{
+  font-size: 40px;
+  font-style: bold;
+  margin-bottom: 16px;
+ }
+ .about-heading p {
+  font-size: 16px;
+  font-style: regular;
+  line-height: 24px;
+  color: #627382;
+  margin-bottom: 24px;
+ }
+ .dc{
+
+  font-size: 16px;
+  font-style: regular;
+  line-height: 20px;
+  color: #627382;
+  margin-top: 16px;
 
  }
